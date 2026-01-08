@@ -50,7 +50,8 @@ section {
     border: 1px solid #444;
 }
 
-.skills-list li {
+.skills-list li,
+.other-projects li {
     margin-bottom: 0.5rem;
 }
 
